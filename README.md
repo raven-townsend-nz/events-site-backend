@@ -1,18 +1,10 @@
-# SENG365 2022 Assignment 1 API server
+# Events Site Backend
 
-# Overview of how to work on the assignment
-1. You hackity hack...
-2. You test with Postman
-3. You commit your changes to your git repo on `eng-git.canterbury.ac.nz`.
+This repository contains code produced for a 3rd year Software Engineering paper on web design and architecture. The assignment involved creating a website backend that served clients to a provided API specification. The second part of the assignment was building the frontend of the website. The frontend code is contained in another repository called ```raven-townsend-nz/events-site-frontend```. 
 
-Remember that we will test your application by downloading it directly from the `master` branch  on eng-git.
-So ensure that you have committed everything to your repo before the deadline.
-It may also pay to check that you can download and run your application with the following steps
+The end result was an Events website, which allowed users to sign up to the website and then create, manage and sign up for events.
 
-1. Download repo
-2. run `npm install`
-3. create a `.env` file
-4. run `npm run start`
+# Assignment Details
 
 ## Running locally
 
